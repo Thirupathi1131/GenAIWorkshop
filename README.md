@@ -1,30 +1,37 @@
-# GenAIWorkshop
-A hands-on workshop project for learning Generative AI concepts and applications. 
+# Generative AI Workshop Project 🚀
 
-Generative AI Workshop
-Riya — Your All-In-One AI Assistant:
-Answering questions, engaging in conversations, and helping you explore the world of Generative AI.
-Overview
-This workshop introduces students and graduates to hands-on projects and industry-leading tools in Generative AI. Through interactive interfaces and curated content, participants learn practical skills, build real-world projects, and get career guidance for success in the AI domain.
-Features
-	•	Dynamic, responsive web UI with custom branding and easy navigation.
-	•	Interactive social sharing (Twitter, LinkedIn, WhatsApp) to promote your projects.
-	•	Guided “I’ve learnt” and career advice sections for multiple learner audiences.
-	•	Skill tooltips reveal concise descriptions for top tools in AI and software development.
-	•	Profile and footer sections designed for community engagement.
+This project was built during the **Gen AI Workshop**. It showcases an interactive **Generative AI Assistant** (chatbot) along with details of tools and technologies learned during the workshop.
 
- The Generative AI Workshop project uses the following tools and technologies based on the provided files:
-	1.	Google Colab A user
-	2.	Gradio An
-	3.	OpenAI An AI
-	4.	PlayHT A platform for cloning voices using AI deep learning models, enabling realistic voice synthesis and applications related to audio generation.
-	5.	HuggingFace A 
-	6.	LangChain An 
-	7.	Frontend Technologies
-	•	HTML, CSS (using Google Fonts and custom theming) for the UI structure and styling.
-	•	JavaScript for dynamic interactions (social sharing, tooltips, descriptions).
-These tools collectively create an engaging, interactive, and educational platform for learning and showcasing generative AI projects.
+## 📌 Features
+- 🌐 **Interactive Chatbot** embedded using [Gradio](https://gradio.app/)
+- 🎨 **Modern UI/UX** with responsive design using **CSS Flexbox & Media Queries**
+- 🖼️ **Profile & Project Showcase** section
+- 🧠 **Technology Highlights**:
+  - Google Colab
+  - OpenAI
+  - LangChain
+  - Gradio
+  - PlayHT
+  - Hugging Face
+- 📢 **Social Media Sharing** (Twitter, LinkedIn, WhatsApp)
+- 📱 Responsive Design (works on desktop and mobile)
 
-Acknowledgements
-	•	NxtWave, OpenAI, and all open-source tools and frameworks powering this workshop experience.
-Showcase your AI journey. Build, learn, share, repeat!
+## 🛠️ Tech Stack
+- **HTML5** – Structure
+- **CSS3** – Styling & Responsiveness
+- **JavaScript (Vanilla JS)** – Interactivity (tooltips, dynamic descriptions, and sharing functionality)
+- **Gradio** – Hosting the chatbot
+- **External Libraries**:
+  - Google Fonts
+
+## 📂 Project Structure
+📦 GenAiWorkshop
+┣ 📜 GenAiWorkshop.html # Main HTML file
+┣ 📜 GenAiWorkshop.css # Stylesheet
+┣ 📜 GenAiWorkshop.js # JavaScript for interactivity
+
+🙌 Acknowledgements
+
+Built during NxtWave’s Generative AI Workshop
+
+Thanks to Gradio, OpenAI, LangChain, Hugging Face, PlayHT, and Google Colab
